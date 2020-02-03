@@ -1209,6 +1209,21 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rPrAUMXEgo {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-11.jpeg");
+}
+.cid-rPrAUMXEgo .mbr-text,
+.cid-rPrAUMXEgo .mbr-section-btn {
+  text-align: left;
+}
+.cid-rPrAUMXEgo H2 {
+  text-align: center;
+}
+.cid-rPrAUMXEgo H3 {
+  text-align: left;
+}
 .cid-rPqjE2xD38 .navbar {
   padding: .5rem 0;
   background: #333333;
